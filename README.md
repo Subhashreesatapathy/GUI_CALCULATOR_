@@ -5,7 +5,7 @@ This project showcases the power of Python's Tkinter library for creating intera
 Perfect for both beginners and experienced developers looking to explore GUI programming.
 
 🛠️ Features:
-Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
+Basic Arithmetic Operations: Addition, subtraction, multiplication,  division,and Percentage.
 Clear Button: Reset the calculator with a single click.
 Real-time Display: Updates calculations instantly as you input numbers and operators.
-Error Handling: Gracefully manages division by zero and invalid inputs.
+Error Handling: Gracefully manages division by zero and invalid inputs or error.
